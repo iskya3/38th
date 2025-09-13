@@ -18,18 +18,6 @@ class CfgPatches
 		versionAr[]={1,0,0};
 	};
 };
-class CfgSettings
-{
-	class CBA
-	{
-		class Versioning
-		{
-			class JLTS_TFARBeta_compat
-			{
-			};
-		};
-	};
-};
 class RscBackPicture;
 class RscEditLCD;
 class HiddenButton;
