@@ -436,7 +436,7 @@ class CfgWeapons
 	{
 		displayName = "[38th] Taco Bell Armor";
 		author="MrClock & 38thS5";
-		scope=2;
+		scope=1;
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";

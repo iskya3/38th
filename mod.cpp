@@ -1,0 +1,12 @@
+name = "38th Auxiliary";
+picture = "logo.paa";
+actionName = "";
+action = "";
+description = "";
+logo = "logo.paa";
+logoOver = "logo.paa";
+tooltip = "38th S-5 Team";
+tooltipOwned = "38th S-5 Team";
+overview = "38th Auxiliary";
+author = "38th S-5 Team";
+overviewPicture = "logo.paa";

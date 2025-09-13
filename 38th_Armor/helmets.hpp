@@ -632,7 +632,7 @@
 	class 38th_TacoBell_Helmet: JLTS_CloneHelmetP2
 	{
 		displayName = "[38th] Taco Bell Helmet(P2)";
-		scope=2;
+		scope=1;
 		author="MrClock & 38thS5";
 		hiddenSelectionsTextures[] = {"38th\38th_Armor\data\campaign\HelmetP2_TB_co.paa"};
 		hiddenSelectionsMaterials[]={"38th\38th_Armor\data\shared\Clone_helmet_P2.rvmat"}; 
